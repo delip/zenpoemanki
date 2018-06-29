@@ -34,10 +34,10 @@ So, you will memorizing the passage of the current group (to start, the first 8 
 In the normal deck screen, click Browse. Then search for "deck:Sandokai tag:group2" (don't need quotes) and you'll see a bunch of yellow-colored lines. The yellow means these notes are suspended, which means they won't be scheduled. As before, once you've studied the corresponding 8 lines, you will go here, click ctrl+a to select all, then click "suspend" which will unsuspend them all. Then you work through all the new reviews. Continue this each week... see the next week, youd do group3, then group4, then group5, then group6, then group7. Note that group7 just has a card that has the entire poem. I was unsure whether this would be a good thing to do... you can generate the deck without it in python, or you can just delete the note! If you go to this screen (or in the review screen) you can delete notes. See how you feel about it :)
 
 Oh and just for good measure, here is what you'll see when you are prompted:
-![image](https://github.com/jcoveney/zenpoemanki/tree/master/images/what_youll_see.png)
+![image](https://github.com/jcoveney/zenpoemanki/blob/master/images/what_youll_see.png)
 
 And here is what happens when you hit space or enter and you see if you got it right:
-![image](https://github.com/jcoveney/zenpoemanki/tree/master/images/when_you_hit_space.png)
+![image](https://github.com/jcoveney/zenpoemanki/blob/master/images/when_you_hit_space.png)
 
 The styling can all be changed... I prefer very simple cards, as I said before. But if you don't like the color blue for example, that can all be changed. I won't get into that here, just let me know if there's something you think should be different about, well, any of this.
 
